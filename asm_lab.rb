@@ -15,7 +15,6 @@ module LibC
 
 end
 
-
 # Renders a FFI memory pointer into a function pointer for ruby using FFI's
 # internals. 
 #
